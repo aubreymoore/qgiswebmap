@@ -23,7 +23,7 @@ var lyr_2021630_132859_1 = new ol.layer.Vector({
                 declutter: true,
                 source:jsonSource_2021630_132859_1, 
                 style: style_2021630_132859_1,
-                interactive: true,
+                interactive: false,
                 title: '<img src="styles/legend/2021630_132859_1.png" /> 2021630_132859'
             });
 var format_images_2 = new ol.format.GeoJSON();
